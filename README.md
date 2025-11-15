@@ -8,7 +8,7 @@ I'm a passionate developer with deep expertise in:
 - **JavaScript**, **TypeScript**, **Vue.js**, **Node.js**
 - **Python** scripting & automation
 
-With **210+ repositories** (private & public combined), I enjoy solving complex problems—especially those close to the hardware. My work ranges from user-friendly web interfaces to low-level systems and driver development.
+With **200+ repositories** (private & public combined), I enjoy solving complex problems—especially those close to the hardware. My work ranges from user-friendly web interfaces to low-level systems and driver development.
 
 ---
 
