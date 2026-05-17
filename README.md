@@ -100,8 +100,11 @@ I enjoy building things that sit close to the operating system, interact directl
 # 🧩 Philosophy
 
 ```text
-Low-level enough to understand the system.
-High-level enough to engineer the solution.
+"
+Living in typical buduammo life and little bit ammata hudu here and there.
+
+— me
+
 ```
 
 ---
